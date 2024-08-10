@@ -1,3 +1,6 @@
+/* 類似題 - AtCoder 330E
+ * 注意當所有集合都不存在數字ｘ時的情況，N ≤ ｘ
+ */
 #include<bits/stdc++.h>
 using namespace std;
 
